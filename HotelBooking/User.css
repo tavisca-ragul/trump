@@ -1,0 +1,29 @@
+a{
+	color:black;
+}
+nav {
+    display: block;
+}
+span{
+	font-size:200%;
+}
+#Air,#Activity,#Car,#Hotel{
+	display:none;
+}
+.row{
+	display:flex;
+	align-items: center;
+}
+.col{
+	margin-right:15px;
+	width: 400px;
+}
+.card-body{
+	    place-items: baseline;
+}
+.small{
+	width:150px;
+}
+.smaller{
+	width:100px;
+}
